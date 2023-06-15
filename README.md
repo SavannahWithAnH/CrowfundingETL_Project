@@ -9,10 +9,10 @@
 
 
 ## Task Leads:
-1. Savannah
-2. Alex
-3. Andrew
-4. Mohamed
+1. Savannah : Create the Category and Subcategory DataFrames
+2. Alex : Create the Campaign DataFrame
+3. Andrew : Create the Contacts DataFrame
+4. Mohamed : Create the Crowdfunding Database
 
 
 ## Goals/ Tasks
